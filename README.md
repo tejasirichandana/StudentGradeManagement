@@ -19,6 +19,6 @@ A Java-based application developed during my CodeOrbit Tech Internship. This pro
 - Loops
 - Scanner Class
 - Exception Handling
-- 
+
 # Author
 Dasari Tejasiri Chandana
